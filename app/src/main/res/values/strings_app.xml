@@ -1,7 +1,8 @@
-MIT License
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+The MIT License (MIT)
 
-Copyright (c) 2014, 2024 Human-scale Localization Platform (HULOP)
-
+Copyright (c) 2016, 2024 IBM Corporation, Carnegie Mellon University and others
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -19,3 +20,26 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+-->
+<resources>
+    <!-- APP unique strings (start) -->
+
+    <!-- App Name -->
+    <string name="AppName">NavCog</string>
+    <!-- Base URL for help page -->
+    <string name="HelpURL">https://hulop.github.io/</string>
+    <!-- URL for Terms of Service page -->
+    <string name="TermsOfServiceURL" />
+    <!-- URL for Privacy Policy page -->
+    <string name="PrivacyPolicyURL" />
+    <!-- Serverlist URL -->
+    <string name="ServerlistURL">https://hulop.github.io/serverlist.json</string>
+    <!-- Contact Mail Address -->
+    <string name="MailAddress">hulop.contact@gmail.com</string>
+
+    <string name="additional_q1_text" />
+    <string name="additional_q2_text" />
+    <string name="additional_q3_text" />
+
+    <!-- APP unique strings (end) -->
+</resources>

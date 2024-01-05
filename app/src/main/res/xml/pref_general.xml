@@ -1,0 +1,81 @@
+<!--
+The MIT License (MIT)
+
+Copyright (c) 2016, 2024 IBM Corporation, Carnegie Mellon University and others
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+-->
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory android:title="@string/Help">
+<!--
+        <Preference
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:key="open_instructions"
+            android:title="@string/OpenInstructions" />
+-->
+        <Preference
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:key="open_help"
+            android:title="@string/OpenHelp" />
+        <Preference
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:key="open_requirements"
+            android:title="@string/UsageRequirements" />
+        <Preference
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:key="send_feedback"
+            android:title="@string/Send_Feedback" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/Mode">
+        <Preference
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:key="back_to_mode_selection"
+            android:title="@string/Back_to_mode_selection" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/Speech_Sound">
+        <SeekBarPreference
+            android:defaultValue="55"
+            android:key="speech_speed_ui"
+            android:max="100"
+            android:title="@string/Speech_speed"
+            app:min="10"
+            app:seekBarIncrement="5" />
+        <Preference
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:key="reset_location"
+            android:title="@string/Reset_Location" />
+    </PreferenceCategory>
+
+    <!--<PreferenceCategory android:title="@string/pref_header_developer">-->
+        <!--<Preference-->
+            <!--android:key="pref_developer"-->
+            <!--android:persistent="false"-->
+            <!--android:title="@string/pref_header_developer" />-->
+    <!--</PreferenceCategory>-->
+
+</PreferenceScreen>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+The MIT License (MIT)
+
+Copyright (c) 2016, 2024 IBM Corporation, Carnegie Mellon University and others
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+-->
+<resources>
+    <string name="_0ng_RD_u8G_text">向导的话很容易理解</string>
+    <string name="_2uI_Co_rNz_text">好</string>
+    <string name="_5dY_jL_v7n_text">任意项目</string>
+    <string name="AZZ_SF_owM_text">评论</string>
+    <string name="BhE_tH_Cn7_title">返回</string>
+    <string name="IG6_Ac_J5o_text">向导的量正好</string>
+    <string name="MS2_Hi_s8w_text">综合评价</string>
+    <string name="SE5_WT_I7E_normalTitle">重新连接</string>
+    <string name="UoK_bu_TMM_title">发送</string>
+    <string name="ZRc_BH_IJT_text">显示的位置信息正确</string>
+    <string name="iaC_38_VID_text">向导时机适当</string>
+    <string name="sKk_Gk_LQ6_text">坏</string>
+    <string name="wiX_qL_za0_text">请配合问卷调查</string>
+    <string name="Cancel">Cancel</string>
+    <string name="OK">OK</string>
+    <string name="Search">搜索</string>
+    <string name="Stop">结束</string>
+    <string name="Back_to_mode_selection">返回模式选择</string>
+    <string name="CheckServerConfig">正在确认设置...</string>
+    <string name="CheckServerList">正在确认列表...</string>
+    <string name="DownloadingData">正在下载数据...</string>
+    <string name="Help">帮助</string>
+    <string name="I_Understand">知道了</string>
+    <string name="Instructions">指南</string>
+    <string name="Mode">模式</string>
+    <string name="NoAltimeterAlertMessage">因为此设备未安装气压计，定位结果可能不稳定。</string>
+    <string name="NoAltimeterAlertTitle">没有气压计</string>
+    <string name="OpenHelp">打开帮助页面</string>
+    <string name="OpenInstructions">打开指南</string>
+    <string name="Open_with_Safari">通过网络浏览器浏览器打开</string>
+    <string name="Open_with_Safari_Message">可以通过网络浏览器浏览器打开网页吗？</string>
+    <string name="Reset_Location">重试定位</string>
+    <string name="SPEECH_SPEED_CHECK">朗读速度:%d</string>
+    <string name="Send_Feedback">发送反馈</string>
+    <string name="Speech_speed">朗读速度</string>
+    <string name="Speech_Sound">朗读 / 声音</string>
+    <string name="THANKYOU_SENDING">非常感谢您配合问卷调查。\n正在发送数据...</string>
+    <string name="checkNetworkConnection">请确认网络连接</string>
+    <string name="feedbackBody">请输入反馈内容</string>
+    <string name="feedbackSubject">%s-反馈(%s)</string>
+    <string name="user_general">一般歩行者</string>
+    <string name="user_stroller">婴儿推车用户</string>
+    <string name="user_wheelchair">轮椅使用者</string>
+    <string name="dontLookWhileWalking">一边看画面一边移动非常危险。如果需要看画面，请在安全的地方停下来操作。</string>
+    <string name="alertRestrictedArea">该区域禁止使用导航。请在服务对象区域使用和使用。</string>
+    <string name="navigationTerminated">导航已终止。</string>
+</resources>

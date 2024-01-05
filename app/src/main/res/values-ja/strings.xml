@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+The MIT License (MIT)
+
+Copyright (c) 2016, 2024 IBM Corporation, Carnegie Mellon University and others
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+-->
+<resources>
+    <string name="NoTTSEngineAlertMessage">テキスト読み上げの機能を使うためにはテキスト読み上げエンジンを「Googleテキスト読み上げエンジン」に変更する必要があります。\nユーザー補助設定画面から\nテキスト読み上げ　→　優先エンジンの設定を変更します。</string>
+    <string name="NoTTSEngineAlertTitle">テキスト読み上げエンジンを変更してください</string>
+
+    <string name="Terms_of_Service">利用規約</string>
+    <string name="Privacy_Policy">プライバシーポリシー</string>
+    <string name="AskTOSAlertMessage">&lt;div style="text-align:center;">続けるには&lt;a href="%s">利用規約&lt;/a>と&lt;a href="%s">プライバシーポリシー&lt;/a>をお読みの上、同意いただく必要があります。&lt;/div></string>
+    <string name="AskTOSAlertTitle">%sへ　ようこそ</string>
+
+    <string name="I_Agree">同意する</string>
+    <string name="_0ng_RD_u8G_text">案内の言葉はわかりやすかった</string>
+    <string name="_2uI_Co_rNz_text">良い</string>
+    <string name="_5dY_jL_v7n_text">任意の項目</string>
+    <string name="AZZ_SF_owM_text">コメント</string>
+    <string name="BhE_tH_Cn7_title">戻る</string>
+    <string name="IG6_Ac_J5o_text">案内の分量はちょうどよかった</string>
+    <string name="MS2_Hi_s8w_text">総合評価</string>
+    <string name="SE5_WT_I7E_normalTitle">再接続</string>
+    <string name="UoK_bu_TMM_title">送信する</string>
+    <string name="ZRc_BH_IJT_text">表示された位置情報は正確だった</string>
+    <string name="iaC_38_VID_text">案内のタイミングは適切だった</string>
+    <string name="sKk_Gk_LQ6_text">悪い</string>
+    <string name="wiX_qL_za0_text">アンケートにご協力ください</string>
+    <string name="Cancel">キャンセル</string>
+    <string name="OK">OK</string>
+    <string name="Search">検索</string>
+    <string name="Stop">終了</string>
+    <string name="Back_to_mode_selection">モード選択に戻る</string>
+    <string name="CheckServerConfig">設定を確認中...</string>
+    <string name="CheckServerList">リストを確認中...</string>
+    <string name="DownloadingData">データをダウンロード中...</string>
+    <string name="Help">ヘルプ</string>
+    <string name="I_Understand">了解しました</string>
+    <string name="Instructions">はじめに</string>
+    <string name="Mode">モード</string>
+    <string name="NoAltimeterAlertMessage">お使いのデバイスには気圧計が搭載されていないため、位置推定結果が不安定になる可能性があります。</string>
+    <string name="NoAltimeterAlertTitle">気圧計がありません</string>
+    <string name="OpenHelp">ヘルプページを開く</string>
+    <string name="OpenInstructions">はじめにを開く</string>
+    <string name="Open_with_Safari">Webブラウザで開く</string>
+    <string name="Open_with_Safari_Message">ウェブページをWebブラウザで開きますが、よろしいですか？</string>
+    <string name="Reset_Location">位置推定をやり直す</string>
+    <string name="SPEECH_SPEED_CHECK">読み上げ速度:%d</string>
+    <string name="Send_Feedback">フィードバックを送信</string>
+    <string name="Speech_speed">読み上げ速度</string>
+    <string name="Speech_Sound">読み上げ / 音</string>
+    <string name="THANKYOU_SENDING">アンケートにご協力ありがとうございます。\nデータを送信中です...</string>
+    <string name="checkNetworkConnection">ネットワークの接続を確認してください</string>
+    <string name="serverConnectionError">一時的にサーバーに接続できませんでした</string>
+    <string name="feedbackBody">フィードバック内容を記載してください</string>
+    <string name="feedbackSubject">%s-フィードバック(%s)</string>
+    <string name="user_general">一般歩行者</string>
+    <string name="user_stroller">ベビーカー利用者</string>
+    <string name="user_wheelchair">車いす利用者</string>
+    <string name="UsageRequirements">推奨利用環境</string>>
+    <string name="dontLookWhileWalking">画面を見ながらの移動は大変危険です。安全な場所で立ち止まって操作してください。</string>
+    <string name="alertRestrictedArea">このエリアではナビゲーションの利用が禁止されています。利用対象エリアに移動してからご利用ください。</string>
+    <string name="navigationTerminated">ナビゲーションを中止します。</string>
+    <string name="LocationPermission">アプリ情報から位置情報を許可してください。</string>
+    <string name="fab_start_conversation">対話検索</string>
+</resources>

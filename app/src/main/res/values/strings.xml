@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+The MIT License (MIT)
+
+Copyright (c) 2016, 2024 IBM Corporation, Carnegie Mellon University and others
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+-->
+<resources>
+    <string name="NoTTSEngineAlertMessage">You need to change Text-to-Speech Engine to \"Google Text-to-Speech Engine\" to enable Text-to-Speech function.\nPlease change settings from Accessibility settings,\nText-to-speech → Preferred engine.</string>
+    <string name="NoTTSEngineAlertTitle">Change Text-to-Speech Engine</string>
+
+    <string name="Terms_of_Service">Terms of Service</string>
+    <string name="Privacy_Policy">Privacy Policy</string>
+    <string name="AskTOSAlertMessage">&lt;div style="text-align:center;">Please read and accept &lt;a href="%s">Terms of Service&lt;/a> and &lt;a href="%s">Privacy Policy&lt;/a> before using the App. &lt;/div></string>
+    <string name="AskTOSAlertTitle">Welcome to %s</string>
+
+    <string name="I_Agree">I Agree</string>
+    <string name="_0ng_RD_u8G_text">Announce is understandable</string>
+    <string name="_2uI_Co_rNz_text">Good</string>
+    <string name="_5dY_jL_v7n_text">Optional</string>
+    <string name="AZZ_SF_owM_text">Free comment</string>
+    <string name="BhE_tH_Cn7_title">Back</string>
+    <string name="IG6_Ac_J5o_text">Announce is much enough</string>
+    <string name="MS2_Hi_s8w_text">Overall Rating</string>
+    <string name="SE5_WT_I7E_normalTitle">Retry</string>
+    <string name="UoK_bu_TMM_title">Submit</string>
+    <string name="ZRc_BH_IJT_text">Location is accurate</string>
+    <string name="iaC_38_VID_text">Announce timing is appropriate</string>
+    <string name="sKk_Gk_LQ6_text">Bad</string>
+    <string name="wiX_qL_za0_text">Please give us your feedback</string>
+    <string name="Cancel">Cancel</string>
+    <string name="OK">OK</string>
+    <string name="Search">Search</string>
+    <string name="Stop">Stop</string>
+    <string name="Back_to_mode_selection">Back to mode selection</string>
+    <string name="CheckServerConfig">Checking server setting...</string>
+    <string name="CheckServerList">Checking server list...</string>
+    <string name="DownloadingData">Downloading data files...</string>
+    <string name="Help">Help</string>
+    <string name="I_Understand">I understand</string>
+    <string name="Instructions">Instructions</string>
+    <string name="Mode">Mode</string>
+    <string name="NoAltimeterAlertMessage">Localization could be unstable because your device does not have barometer sensor.</string>
+    <string name="NoAltimeterAlertTitle">No Barometer Sensor</string>
+    <string name="OpenHelp">Open help page</string>
+    <string name="OpenInstructions">Open instructions page</string>
+    <string name="Open_with_Safari">Open with Web browser?</string>
+    <string name="Open_with_Safari_Message">Is it okay to open a webpage with Web browser?</string>
+    <string name="Reset_Location">Re-init Localization</string>
+    <string name="SPEECH_SPEED_CHECK">Speech speed is %d</string>
+    <string name="Send_Feedback">Send Feedback</string>
+    <string name="Speech_speed">Speech speed</string>
+    <string name="Speech_Sound">Speech / Sound</string>
+    <string name="THANKYOU_SENDING">Thank you for your feedback!\nFeedback is sending...</string>
+    <string name="checkNetworkConnection">Check network connection</string>
+    <string name="serverConnectionError">Could not connect to the server temporarily.</string>
+    <string name="feedbackBody">Please input your feedback here.</string>
+    <string name="feedbackSubject">%s-Feedback(%s)</string>
+    <string name="user_general">General Pedestrian</string>
+    <string name="user_stroller">Baby Stroller User</string>
+    <string name="user_wheelchair">Wheelchair User</string>
+    <string name="UsageRequirements">Usage Requirements</string>
+    <string name="dontLookWhileWalking">Looking at your smartphone while walking is dangerous. Please stop at a safe place and then operate the app.</string>
+    <string name="alertRestrictedArea">Navigation is prohibited in this area. Please move to the service supported area and use the application.</string>
+    <string name="navigationTerminated">Navigation was terminated.</string>
+    <string name="LocationPermission">Please allow \"Location\" permission from App permissions menu.</string>
+    <string name="fab_start_conversation">Start conversational search</string>
+</resources>

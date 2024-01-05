@@ -1,7 +1,8 @@
-MIT License
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+The MIT License (MIT)
 
-Copyright (c) 2014, 2024 Human-scale Localization Platform (HULOP)
-
+Copyright (c) 2016, 2024 IBM Corporation, Carnegie Mellon University and others
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -19,3 +20,23 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group_pages"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_maps"
+            android:title="@string/maps" />
+        <item
+            android:id="@+id/nav_debug"
+            android:title="@string/debug" />
+    </group>
+    <group
+        android:id="@+id/group_settings">
+        <item
+            android:id="@+id/nav_settings"
+            android:title="@string/action_settings" />
+    </group>
+</menu>

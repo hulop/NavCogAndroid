@@ -1,7 +1,8 @@
-MIT License
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+The MIT License (MIT)
 
-Copyright (c) 2014, 2024 Human-scale Localization Platform (HULOP)
-
+Copyright (c) 2016, 2024 IBM Corporation, Carnegie Mellon University and others
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -19,3 +20,21 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+-->
+<resources>
+    <string name="action_settings">Settings</string>
+
+    <string name="maps">Maps</string>
+    <string name="debug">Debug</string>
+    <string name="server_url">Server url</string>
+
+    <!-- Settings for Developer mode -->
+    <string name="pref_header_developer">Developer Mode</string>
+    <string name="pref_default_server_url">hulop.github.io</string>
+    <string name="pref_title_logging">Logging</string>
+    <string name="pref_title_debug">Debug Info</string>
+
+    <string name="Refresh">Refresh</string>
+    <string name="Done">Done</string>
+    <string name="Setting">Settings</string>
+</resources>

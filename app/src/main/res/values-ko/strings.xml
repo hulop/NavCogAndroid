@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+The MIT License (MIT)
+
+Copyright (c) 2016, 2024 IBM Corporation, Carnegie Mellon University and others
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+-->
+<resources>
+    <string name="_0ng_RD_u8G_text">안내의 말은 알기 쉬웠</string>
+    <string name="_2uI_Co_rNz_text">좋은</string>
+    <string name="_5dY_jL_v7n_text">모든 항목</string>
+    <string name="AZZ_SF_owM_text">댓글</string>
+    <string name="BhE_tH_Cn7_title">뒤로</string>
+    <string name="IG6_Ac_J5o_text">정보의 분량은 다만 좋았습니다</string>
+    <string name="MS2_Hi_s8w_text">종합 평가</string>
+    <string name="SE5_WT_I7E_normalTitle">다시 연결</string>
+    <string name="UoK_bu_TMM_title">보내기</string>
+    <string name="ZRc_BH_IJT_text">표시된 위치 정보는 정확했다</string>
+    <string name="iaC_38_VID_text">정보의 타이밍은 적절했다</string>
+    <string name="sKk_Gk_LQ6_text">나쁜</string>
+    <string name="wiX_qL_za0_text">앙케이트에 협력 해주십시오</string>
+    <string name="Cancel">취소</string>
+    <string name="OK">OK</string>
+    <string name="Search">Search</string>
+    <string name="Stop">Stop</string>
+    <string name="Back_to_mode_selection">모드 선택으로 돌아 가기</string>
+    <string name="CheckServerConfig">설정을 확인 중 ...</string>
+    <string name="CheckServerList">목록을 확인 중 ...</string>
+    <string name="DownloadingData">데이터 다운로드 중 ...</string>
+    <string name="Help">도움말</string>
+    <string name="I_Understand">알겠습니다.</string>
+    <string name="Instructions">시작하기</string>
+    <string name="Mode">모드</string>
+    <string name="NoAltimeterAlertMessage">장치에는 기압계가 탑재되어 있지 않기 때문에, 위치 추정 결과가 불안정해질 수 있습니다.</string>
+    <string name="NoAltimeterAlertTitle">기압계가 없습니다</string>
+    <string name="OpenHelp">도움말 페이지를 열</string>
+    <string name="OpenInstructions">소개 페이지 열기</string>
+    <string name="Open_with_Safari">Web 브라우저에서 열기</string>
+    <string name="Open_with_Safari_Message">Web 브라우저에서 웹 페이지를 열어도 되나요?</string>
+    <string name="Reset_Location">위치 추정을 다시</string>
+    <string name="SPEECH_SPEED_CHECK">읽기 속도 :%d</string>
+    <string name="Send_Feedback">의견을 보내</string>
+    <string name="Speech_speed">읽기 속도</string>
+    <string name="Speech_Sound">음성 / 소리</string>
+    <string name="THANKYOU_SENDING">설문 조사에 협조 해 주셔서 감사합니다. 데이터를 전송 중입니다 ...</string>
+    <string name="checkNetworkConnection">네트워크 연결을 확인하십시오</string>
+    <string name="feedbackBody">피드백 내용을 기재 해주세요</string>
+    <string name="feedbackSubject">%s- 피드백 (%s)</string>
+    <string name="user_general">일반 보행자</string>
+    <string name="user_stroller">유모차 이용자</string>
+    <string name="user_wheelchair">휠체어 이용자</string>
+    <string name="dontLookWhileWalking">화면을 보면서 이동하는 것은 대단히 위험합니다. 안전한 곳에서 멈추어 이용하시기 바랍니다.</string>
+    <string name="alertRestrictedArea">이 지역에서는 네비게이션 사용이 금지되어 있습니다. 서비스 대상 지역에 이용하고 이용하십시오. </string>
+    <string name="navigationTerminated">내비게이션이 종료되었습니다.</string>
+</resources>

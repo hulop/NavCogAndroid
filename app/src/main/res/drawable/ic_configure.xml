@@ -1,7 +1,7 @@
-MIT License
+<!--
+The MIT License (MIT)
 
-Copyright (c) 2014, 2024 Human-scale Localization Platform (HULOP)
-
+Copyright (c) 2016, 2024 IBM Corporation, Carnegie Mellon University and others
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -19,3 +19,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportHeight="32.0"
+    android:viewportWidth="32.0">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M12.86,7A3.99,3.99 0,0 0,9 4a3.99,3.99 0,0 0,-3.86 3L1,7v2h4.14A3.99,3.99 0,0 0,9 12a3.99,3.99 0,0 0,3.86 -3L31,9L31,7L12.86,7zM9,9a1,1 0,1 1,0 -2,1 1,0 0,1 0,2zM23,12a3.99,3.99 0,0 0,-3.86 3L1,15v2h18.14A3.99,3.99 0,0 0,23 20a3.99,3.99 0,0 0,3.86 -3L31,17v-2h-4.14A3.99,3.99 0,0 0,23 12zM23,17a1,1 0,1 1,0 -2,1 1,0 0,1 0,2zM9,20a3.99,3.99 0,0 0,-3.86 3L1,23v2h4.14A3.99,3.99 0,0 0,9 28a3.99,3.99 0,0 0,3.86 -3L31,25v-2L12.86,23A3.99,3.99 0,0 0,9 20zM9,25a1,1 0,1 1,0 -2,1 1,0 0,1 0,2z" />
+</vector>
