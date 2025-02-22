@@ -1,7 +1,7 @@
 <!--
 The MIT License (MIT)
 
-Copyright (c) 2016, 2024 IBM Corporation, Carnegie Mellon University and others
+Copyright (c) 2016, 2025 IBM Corporation, Carnegie Mellon University and others
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -39,6 +39,7 @@ Android version of example application "NavCog".
 ## Dependent libraries
 - [HULOP blelocpp](https://github.com/hulop/blelocpp) (MIT License)
 - [OpenCV (OpenCV-Dynamic) 4.0.1](https://opencv.org/releases/) (BSD License)
+- [BubbleLayout 1.2.2](https://github.com/MasayukiSuda/BubbleLayout) (MIT License)
 
 ### About libopencv_java4.so
 
